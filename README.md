@@ -3,7 +3,11 @@
 
 # Cameron Scott Terrence Barrett
 **NetID: cbarrett2 | Username: TheRealMrNumbers**
+
 *Pronouns: He/Him*
+
 *Class of 2027*
+
 *Major: Computer Science*
+
 ---
