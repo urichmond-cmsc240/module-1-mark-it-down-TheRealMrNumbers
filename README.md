@@ -2,7 +2,6 @@
 [REPLACE ME!] 
 
 # Cameron Scott Terrence Barrett
-[The creature](20250215_163816.jpg)
 **NetID: cbarrett2 | Username: TheRealMrNumbers**
 
 *Pronouns: He/Him*
@@ -12,3 +11,16 @@
 *Major: Computer Science*
 
 ---
+
+**Hobbies**
+
+- Playing piano
+- Tabletop role-playing games
+- Speech and debate, so long as this constitutes a hobby
+
+**Favorite movie**: [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/)
+
+---
+
+The following is my single favorite picture of myself (right)
+![The creature](20250215_163816.jpg)
