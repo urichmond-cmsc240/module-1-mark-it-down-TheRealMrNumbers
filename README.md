@@ -13,7 +13,7 @@
 
 - Playing piano
 - Tabletop role-playing games
-- Speech and debate, so long as this constitutes a hobby
+- Speech and debate (so long as this constitutes a hobby)
 
 **Favorite movie**: [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/)
 
