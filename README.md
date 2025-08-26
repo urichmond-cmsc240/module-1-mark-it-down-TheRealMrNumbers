@@ -2,7 +2,7 @@
 [REPLACE ME!] 
 
 # Cameron Scott Terrence Barrett
-[]()
+[The creature](20250215_163816.jpg)
 **NetID: cbarrett2 | Username: TheRealMrNumbers**
 
 *Pronouns: He/Him*
